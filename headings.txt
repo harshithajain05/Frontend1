@@ -1,0 +1,8 @@
+HTML Tag Reference
+W3Schools' tag reference contains additional information about these tags and their attributes.
+
+Tag	Description
+<html>	Defines the root of an HTML document
+<body>	Defines the document's body
+<h1> to <h6>	Defines HTML headings
+For a complete list of all available HTML tags, visit our HTML Tag Reference.
